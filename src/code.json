@@ -1,0 +1,125 @@
+{
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What M83 was featured in Grand Theft Auto V&#039;s radio?",
+        "correct_answer": "Midnight City",
+        "incorrect_answers": [
+          "Outro",
+          "Reunion",
+          "Wait"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Music",
+        "question": "What was the name of Pink Floyd&#039;s first studio album?",
+        "correct_answer": "The Piper at the Gates of Dawn",
+        "incorrect_answers": [
+          "Ummagumma",
+          "More",
+          "Atom Heart Mother"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "The Queen song `A Kind Of Magic` is featured in which 1986 film?",
+        "correct_answer": "Highlander",
+        "incorrect_answers": [
+          "Flash Gordon",
+          "Labyrinth",
+          "Howard the Duck"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment: Music",
+        "question": "Who recorded the 1975 album &#039;Captain Fantastic and the Brown Dirt Cowboy&#039;?",
+        "correct_answer": "Elton John",
+        "incorrect_answers": [
+          "John Denver",
+          "Billy Joel",
+          "Joe Cocker"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "In which year did the Invasion of Kuwait by Iraq occur?",
+        "correct_answer": "1990",
+        "incorrect_answers": [
+          "1992",
+          "1988",
+          "1986"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "What year was the game Dishonored released?",
+        "correct_answer": "2012",
+        "incorrect_answers": [
+          "2011",
+          "2008",
+          "2013"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What was the unofficial name for Germany between 1919 and 1933?",
+        "correct_answer": "Weimar Republic",
+        "incorrect_answers": [
+          "German Democratic Republic",
+          "Federal Republic of Germany",
+          "Oesterreich "
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "The mobile game &quot;Jetpack Joyride&quot; was released in what year? ",
+        "correct_answer": "2011",
+        "incorrect_answers": [
+          "2012",
+          "2009",
+          "2014"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Politics",
+        "question": "What is the name of Niccol&ograve; Machiavelli&#039;s work that argued effective leaders needed to crush their opponents at all costs?",
+        "correct_answer": "The Prince",
+        "incorrect_answers": [
+          "The Rape of Lucrece",
+          "Will to Power",
+          "Love&#039;s Labours Lost"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "Which country has the international vehicle registration letter &#039;A&#039;?",
+        "correct_answer": "Austria",
+        "incorrect_answers": [
+          "Afghanistan",
+          "Australia",
+          "Armenia"
+        ]
+      }
+    ]
+  }

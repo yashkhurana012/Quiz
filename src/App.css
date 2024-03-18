@@ -63,7 +63,7 @@ button {
   width: 10rem;
   margin-top: 10px;
   border: none;
-  background: orangered;
+  background: rgb(52, 205, 232);
   color: white;
   cursor: pointer;
   font-size: 16px;
@@ -72,7 +72,7 @@ button {
 }
 
 button:hover {
-  background: darkorange; /* Changing button color on hover */
+  background: rgb(56, 238, 244); /* Changing button color on hover */
 }
 
 .time {
